@@ -1,0 +1,4 @@
+interface:
+  display_name: "DTA 训练性能优化"
+  short_description: "针对 PMHGT、PairSel 与 MMCLKin 的可验证训练加速"
+  default_prompt: "审计并优化当前 DTA 训练流程，保持实验语义并报告可复现前后对比。"
